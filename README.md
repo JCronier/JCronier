@@ -19,11 +19,12 @@ NextJS
 
  💬 Ask me about:
 
-React and Express
-Python coding!
-Gaming
+React and Express,
+Python coding,
+Gaming,
 Dungeons and Dragons
-mailbox How to reach me:
+
+How to reach me:
 
 LinkedIn: https://www.linkedin.com/in/jordan-cronier
 Discord: Croner#2966
