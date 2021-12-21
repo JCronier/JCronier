@@ -10,11 +10,11 @@ Video Game DB site and api
 
 🌱 I’m currently learning:
 
-React
-NodeJS
-SQL
-MongoDB
-GraphQL
+React,
+NodeJS,
+SQL,
+MongoDB,
+GraphQL,
 NextJS
 
  💬 Ask me about:
