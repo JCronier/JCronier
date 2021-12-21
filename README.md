@@ -5,7 +5,7 @@ He/him
 
 🔭 I’m currently working on:
 
-Personal site
+Personal site,
 Video Game DB site and api
 
 🌱 I’m currently learning:
